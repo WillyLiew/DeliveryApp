@@ -1,0 +1,6 @@
+[{"name":"Bento", "icon":"bento.jpg", "price":"18.80","rating":"4.87","delivery":3},
+{"name":"Onigiri", "icon":"onigiri.jpg", "price":"4.50","rating":"4.87","delivery":2},
+{"name":"Sashimi", "icon":"sashimi.jpg", "price":"23.30","rating":"4.76","delivery":5},
+{"name":"Sushi Roll", "icon":"sushi.jpg", "price":"16.70","rating":"4.79","delivery":0},
+{"name":"Ramen", "icon":"ramen.jpg", "price":"10.90","rating":"4.92","delivery":0},
+]
