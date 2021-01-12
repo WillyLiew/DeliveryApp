@@ -1,0 +1,7 @@
+[{"name":"Air bandung", "icon":"bandung.jpg", "price":"2.30","rating":"4.70","delivery":2},
+{"name":"Barli", "icon":"barli.jpg", "price":"1.80","rating":"4.83","delivery":2},
+{"name":"Cola(Soft Drink)", "icon":"cola.jpg", "price":"2.1","rating":"4.78","delivery":0},
+{"name":"Kopi Ais", "icon":"kopi_ais.jpg", "price":"2.40","rating":"4.90","delivery":1},
+{"name":"Teh C Peng Special", "icon":"teh_c_peng_special.jpg", "price":"3.90","rating":"4.95","delivery":3},
+{"name":"Asam Boi", "icon":"asam_boi.jpg", "price":"2.30","rating":"4.76","delivery":0},
+]
