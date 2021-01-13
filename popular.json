@@ -1,4 +1,8 @@
 [{"name":"Nasi Ayam", "icon":"nasi_ayam.jpg", "price":"6.50","rating":"4.9"},
 {"name":"Ayam Penyet", "icon":"ayam_penyet.jpg", "price":"8.00","rating":"4.91"},
-{"name":"Maggi Goreng", "icon":"maggi_goreng.jpg", "price":"4.50","rating":"4.88"}
+{"name":"Ramen", "icon":"ramen.jpg", "price":"10.90","rating":"4.92","delivery":0},
+{"name":"Teh C Peng Special", "icon":"teh_c_peng_special.jpg", "price":"3.90","rating":"4.95","delivery":3},
+{"name":"Kopi Ais", "icon":"kopi_ais.jpg", "price":"2.40","rating":"4.90","delivery":1},
+{"name":"Burger", "icon":"burger.jpg","price":"7.50","rating":"4.88","delivery":5},
+{"name":"Satay", "icon":"satay.jpg", "price":"8.80","rating":"4.95","delivery":0}
 ]
