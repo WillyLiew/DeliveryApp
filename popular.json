@@ -1,4 +1,4 @@
-[{"name":"Ramen", "icon":"ramen.jpg", "price":"10.90","rating":"4.92","delivery":0},
+[{"name" : "Ramen", "icon":"ramen.jpg", "price":"10.90","rating":"4.92","delivery":0},
 {"name":"Nasi Ayam", "icon":"nasi_ayam.jpg", "price":"6.50","rating":"4.9","delivery":0},
 {"name":"Ayam Penyet", "icon":"ayam_penyet.jpg", "price":"8.00","rating":"4.91","delivery":2},
 {"name":"Teh C Peng Special", "icon":"teh_c_peng_special.jpg", "price":"3.90","rating":"4.95","delivery":3},
